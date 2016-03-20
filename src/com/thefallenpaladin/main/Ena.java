@@ -30,7 +30,7 @@ public class Ena {
     boolean tAccess = false;
     boolean mAccess2 = false;
     boolean tAccess2 = false;
-    boolean mattAcess = false; // WOW... REAL MATURE
+    boolean mattAcess = false; // WOW... REAL MATURE JK JK JK
     boolean nExiting = true; //what is this for?
     boolean firstTimeRun = true;
     boolean StartoutExplain = false;// same as firstTimeRun, except for mAccess
